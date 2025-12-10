@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "destination": "Париж",
+    "start_date": "10.07.25",
+    "end_date": "10.07.25",
+    "type": "отпуск",
+    "budget": 100000,
+    "components": []
+  }
+]
