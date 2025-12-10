@@ -19,8 +19,8 @@ RESTful API для управления путешествиями с полны
      -d '{
        "id": "123",
        "destination": "Париж",
-       "start_date": "2025-07-01T00:00:00Z",
-       "end_date": "2025-07-10T00:00:00Z",
+       "start_date": "10.07.25",
+       "end_date": "10.07.25",
        "type": "отпуск",
        "budget": 100000,
        "components": []
@@ -36,3 +36,4 @@ RESTful API для управления путешествиями с полны
 5. Удалить путешествие
     ```bash
     curl -X DELETE http://localhost:3000/api/v1/trips/123
+
